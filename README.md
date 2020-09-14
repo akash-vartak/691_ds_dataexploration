@@ -1,5 +1,5 @@
 # 691_ds_dataexploration
-_This was originally the submission for Assignment 1 for UMBC's course CMSC 691 - Data Science_
+_This was originally the submission for Assignment 1 for UMBC's Fall 2019 course CMSC 691 - Data Science under Prof. Oates._
 
 Dataset used: [Open Baltimore's HousingPermits_2014Q3-11Apr16](https://data.baltimorecity.gov/Housing-Development/HousingPermits_2014Q3-11Apr16/4qt8-429n)
 
