@@ -1,5 +1,5 @@
 # 691_ds_dataexploration
-This was originally the submission for assignment 1 for UMBC's course CMSC 691 - Data Science
+_This was originally the submission for Assignment 1 for UMBC's course CMSC 691 - Data Science_
 
 Dataset used: [Open Baltimore's HousingPermits_2014Q3-11Apr16](https://data.baltimorecity.gov/Housing-Development/HousingPermits_2014Q3-11Apr16/4qt8-429n)
 
@@ -8,16 +8,17 @@ Dataset used: [Open Baltimore's HousingPermits_2014Q3-11Apr16](https://data.balt
 3. I then proceeded to create visualisations and using them provided analysis of relationship between various variable/columns.
 4. Lastly, I picked one variable to be a dependent variable, and two others to be predictor variables and generated a 2-D plot to show whether the predictor variables provide information (and what information) about the the dependent variable. And then explained why I think they do or do not.
 
-### Contribution:
-Any issue or pull request is welcome as long as the format of the jupyter notebook is followed and proper sections and subsections are created and indexed.
-
 ### License:
 Although this is not assigned a particular license, it is free for anyone to use.
 
 **If you are a student and referring to this for help on any assignment or homework or project or other forms of coursework, do not forget to include it as a reference AND to cite it in your solutions to prevent violation of Academic Integrity.**
 
+### Contribution:
+Any issue or pull request is welcome as long as the format of the jupyter notebook is followed and proper sections and subsections are created and indexed.
 
-#### The actual problem statement of the assignment:
+<br><br>
+**_The actual problem statement of the assignment:_**
+
 Choose any dataset from the [Open Baltimore](https://data.baltimorecity.gov/) collection except for variations of the Victim Based Crime Data that I explored in my DataExploration notebook. Choose a dataset that allows you to perform the following tasks:
 
 - Load the data into a Jupyter notebook. Explain briefly (using markdown) what the Open Baltimore website says about the dataset. Do a head(50) and tail(50) on the data frame after loading the data. Explain any observations you can make about the dataset and its quality from just that output.
